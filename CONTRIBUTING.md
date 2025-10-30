@@ -21,17 +21,17 @@ Test responsiveness before pushing.
 
 ✅ Commit Message Convention
 
-Type	                Purpose
+Type	        |        Purpose
 ---                   ---
-feat	                New feature
+feat	        |       New feature
+---                  ---
+fix	        |         Bug fix
 ---                   ---
-fix	                  Bug fix
+style         |      	UI/UX or CSS improvements
 ---                   ---
-style                	UI/UX or CSS improvements
+docs	        |       Documentation changes\
 ---                   ---
-docs	                Documentation changes\
----                   ---
-chore	                Minor updates
+chore	        |       Minor updates
 ---                   ---
 
 Happy coding 💚
