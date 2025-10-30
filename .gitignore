@@ -1,1 +1,12 @@
+# OS / IDE files
+.DS_Store
+.vscode/
+node_modules/
+*.log
+*.tmp
+*.zip
+
+# Build or cache directories
+dist/
+cache/
 
