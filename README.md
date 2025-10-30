@@ -141,7 +141,4 @@ This version is **complete, professional, and portfolio-ready** — it includes:
 - Future improvement ideas  
 - Keywords for GitHub SEO  
 
-If you’d like, I can now write your `README_bn.md` in Bengali — matching this English one perfectly but written in smooth, professional Bangla.  
-Do you want me to make that next?
-
  
