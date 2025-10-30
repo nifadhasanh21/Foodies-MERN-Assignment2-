@@ -18,7 +18,7 @@ Foodies is a modern, visually appealing food website homepage designed to:
 # MERN Assignment : 2
 ### Name : Nifad Hasan Eimu
 ### Email: nifadhasanh69@gmail.com
-[ Live url ](https://nifadhasan.github.io/foodies/)
+[ Live url ]([https://nifadhasan.github.io/foodies/](https://roaring-eclair-8ea96f.netlify.app/))
 
 
 ## 🧩 Core Features
