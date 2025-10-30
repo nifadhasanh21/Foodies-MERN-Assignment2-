@@ -37,4 +37,111 @@ Foodies is a modern, visually appealing food website homepage designed to:
 | **Vanilla JS** | Menu toggle and small interactivity |
 | **GitHub Pages** | Hosting / Live preview |
 
+## 📂 Folder Structure
+
 ---
+
+Foodies/
+│
+├── index.html
+├── style.css
+├── assets/
+│ ├── images/
+│ └── icons/
+│
+├── README.md
+├── README_bn.md
+├── .gitignore
+├── LICENSE
+├── CONTRIBUTING.md
+├── ISSUE_TEMPLATE.md
+├── PULL_REQUEST_TEMPLATE.md
+└── deploy.md
+
+
+---
+
+## 🖥️ How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nifadhasan/foodies.git
+2. Open the folder:
+   cd foodies
+3.Open index.html in your browser directly, or use VS Code Live Server:
+   npx live-server
+4. The site will open at http://localhost:8080 (or similar).
+
+
+---
+
+   🌐 Live Demo
+
+👉 Link: 
+
+---
+
+🧱 Future Improvements
+
+Add dark/light mode toggle for user preference.
+
+Create Contact form integration using Firebase or EmailJS.
+
+Enhance animations using CSS transitions and keyframes.
+
+Optimize images and improve Lighthouse performance score.
+
+Add smooth scrolling and scroll-reveal effects.
+
+---
+
+
+🧑‍💻 Author
+
+Nifad Hasan Eimu
+🎓 Software Engineering Student, Daffodil International University
+📧 nifadhasanh21@gmail.com
+
+🌐 Portfolio: https://www.nifadhasan.com/
+
+🔗 LinkedIn: https://www.linkedin.com/in/nifadhasanh21/
+
+💼 GitHub: https://github.com/nifadhasanh21
+
+---
+
+
+📜 License
+
+This project is licensed under the MIT License – see LICENSE
+ for details.
+
+
+ ---
+
+ 🤝 Contributing
+
+Contributions are welcome!
+If you’d like to suggest improvements, please read CONTRIBUTING.md
+ and open a pull request.
+
+---
+
+
+---
+
+### ✅ Summary
+This version is **complete, professional, and portfolio-ready** — it includes:
+- A clean title and summary  
+- Full feature list  
+- Tech stack table  
+- Folder structure  
+- Setup instructions  
+- Author & license info  
+- Future improvement ideas  
+- Keywords for GitHub SEO  
+
+If you’d like, I can now write your `README_bn.md` in Bengali — matching this English one perfectly but written in smooth, professional Bangla.  
+Do you want me to make that next?
+
+ 
